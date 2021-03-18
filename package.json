@@ -1,5 +1,5 @@
 {
-  "name": "dbf",
+  "name": "@mhkeller/dbf",
   "version": "0.1.4",
   "description": "generate dbf files",
   "main": "index.js",

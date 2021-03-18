@@ -1,5 +1,7 @@
 # dbf
 
+> Fork of [mapbox/dbf](https://github.com/mapbox/dbf), which is unmaintained
+
 [![Build Status](https://travis-ci.org/mapbox/dbf.svg?branch=master)](https://travis-ci.org/mapbox/dbf)
 
 Write [dBase files](https://en.wikipedia.org/wiki/DBase) in pure JavaScript,
@@ -10,7 +12,7 @@ support.
 ## usage
 
 ```
-npm install dbf
+npm install @mhkeller/dbf
 ```
 
 Or just in a browser:
